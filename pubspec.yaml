@@ -39,6 +39,8 @@ dependencies:
   permission_handler: ^11.0.0  
   device_info_plus: ^9.0.3
   flutter_bluetooth_serial: ^0.4.0
+  led_bulb_indicator: ^0.0.1
+  lite_rolling_switch: ^1.0.1
 
 dev_dependencies:
   flutter_test:
